@@ -1,0 +1,30 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\numberline {1}Planteamiento del Problema}{2}{}%
+\contentsline {section}{\numberline {1.1}Problema Principal}{2}{}%
+\contentsline {section}{\numberline {1.2}Problemas Específicos}{2}{}%
+\contentsline {chapter}{\numberline {2}Justificación}{3}{}%
+\contentsline {section}{\numberline {2.1}Justificación Metodológica}{3}{}%
+\contentsline {section}{\numberline {2.2}Justificación Teórica}{3}{}%
+\contentsline {section}{\numberline {2.3}Justificación Práctica}{3}{}%
+\contentsline {chapter}{\numberline {3}Marco Teórico}{4}{}%
+\contentsline {chapter}{\numberline {4}Antecedentes}{6}{}%
+\contentsline {section}{\numberline {4.1}Internacionales}{6}{}%
+\contentsline {section}{\numberline {4.2}Nacionales}{7}{}%
+\contentsline {chapter}{\numberline {5}Objetivos}{8}{}%
+\contentsline {section}{\numberline {5.1}Objetivo Principal}{8}{}%
+\contentsline {section}{\numberline {5.2}Objetivos espcíficos}{8}{}%
+\contentsline {chapter}{\numberline {6}Hipótesis}{9}{}%
+\contentsline {section}{\numberline {6.1}Hipótesis Principal}{9}{}%
+\contentsline {section}{\numberline {6.2}Hipótesis Específicas}{9}{}%
+\contentsline {chapter}{\numberline {7}Variables}{10}{}%
+\contentsline {section}{\numberline {7.1}Variables independientes}{10}{}%
+\contentsline {section}{\numberline {7.2}Variables dependientes}{10}{}%
+\contentsline {chapter}{\numberline {8}Materiales y Metodos}{11}{}%
+\contentsline {section}{\numberline {8.1}Equipos, Materiales y Servicios}{11}{}%
+\contentsline {section}{\numberline {8.2}Métodos}{11}{}%
+\contentsline {subsection}{\numberline {8.2.1}Diseño y alcanze de la investigación}{11}{}%
+\contentsline {subsection}{\numberline {8.2.2}Población y Muestra}{12}{}%
+\contentsline {subsection}{\numberline {8.2.3}Técnicas o métodos a aplicar}{12}{}%
+\contentsline {chapter}{\numberline {9}Cronograma de actividades}{13}{}%
+\contentsline {chapter}{\numberline {10}Metas}{14}{}%
+\contentsline {chapter}{\numberline {11}Presupuesto}{15}{}%

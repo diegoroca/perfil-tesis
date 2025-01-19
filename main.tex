@@ -1,0 +1,78 @@
+\documentclass[12pt]{report}
+
+%\usepackage[utf8]{inputenc} % Codificación de entrada
+\usepackage[spanish]{babel} % Packete de palabras clave en español
+\renewcommand{\spanishlisttablename}{Índice de tablas} % Redefinir la traduccion de listoftables
+\renewcommand{\spanishtablename}{Table} % Redefinir la traduccion de table
+
+\usepackage[a4paper, width=150mm, top=25mm, bottom=25mm]{geometry} % Definir tamaño de hoja y margenes
+
+\usepackage{graphicx} % Paquete para usar imagenes
+\graphicspath{ {images/} } % Definir el directorio de las imagenes
+
+\usepackage{tabularx}
+\usepackage{multirow}
+
+\usepackage{caption} % Paquete para subfiguras
+\usepackage{subcaption} % Paquete para subfiguras
+
+\usepackage{fancyhdr} % Paquete de cabeceras
+\pagestyle{fancy} % Activar el estilo fancy headers 
+\fancyhead{} % Iniciar la configuracion de cabecera en blanco
+\fancyhead[L]{Capítulo \thechapter} % Mostrar capitulo en las esquinas superior izquierda
+\renewcommand{\headrulewidth}{0.4pt} % Configurar grosor de linea de cabecera
+
+\usepackage[style=apa]{biblatex} % Paquete para bibliografias
+\addbibresource{references.bib} % Definir el archivo repositorio de bibliografias
+
+
+\begin{document}
+
+  \input{opening/portada}
+
+  %\input{opening/abstract}
+
+  \tableofcontents
+  %\listoffigures
+  %\listoftables
+
+  %\chapter*{Introducción}
+  %\addcontentsline{toc}{chapter}{Introducción}
+  %\input{chapters/introduccion}
+
+  \chapter{Planteamiento del Problema}
+  \input{chapters/capitulo01}
+
+  \chapter{Justificación}
+  \input{chapters/capitulo02}
+
+  \chapter{Marco Teórico}
+  \input{chapters/capitulo03}
+
+  \chapter{Antecedentes}
+  \input{chapters/capitulo04}
+
+  \chapter{Objetivos}
+  \input{chapters/capitulo05}
+
+  \chapter{Hipótesis}
+  \input{chapters/capitulo06}
+
+  \chapter{Variables}
+  \input{chapters/capitulo07}
+  
+  \chapter{Materiales y Metodos}
+  \input{chapters/capitulo08}
+
+  \chapter{Cronograma de actividades}
+  \input{chapters/capitulo09}
+
+  \chapter{Metas}
+  \input{chapters/capitulo10}
+
+  \chapter{Presupuesto}
+  \input{chapters/capitulo11}
+
+  \printbibliography
+
+\end{document}

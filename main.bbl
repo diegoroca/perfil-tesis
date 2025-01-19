@@ -1,0 +1,351 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{Correa}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3569697085e865707b062a82f11a5f95}{%
+           family={Correa\bibnamedelima Cervantes},
+           familyi={C\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={José\bibnamedelima Alfonso},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=219e395ad844b23b4e19d12cc454e3e6}{%
+           family={Siesquen\bibnamedelima Rivadeneira},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Jorim\bibnamedelima Ysrael},
+           giveni={J\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{25278c0dd6f2ac1c0fbb03e46d70cecd}
+      \strng{fullhash}{25278c0dd6f2ac1c0fbb03e46d70cecd}
+      \strng{bibnamehash}{25278c0dd6f2ac1c0fbb03e46d70cecd}
+      \strng{authorbibnamehash}{25278c0dd6f2ac1c0fbb03e46d70cecd}
+      \strng{authornamehash}{25278c0dd6f2ac1c0fbb03e46d70cecd}
+      \strng{authorfullhash}{25278c0dd6f2ac1c0fbb03e46d70cecd}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Universidad Cesar Vallejo}
+      \field{title}{Diseño de un Sistema Fotovoltaico con Seguidor Solar para Sistema de Telecomunicación de las Subestaciones Sector Norte}
+      \field{year}{2022}
+    \endentry
+    \entry{Dominguez}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1f730fcfae440acf9c58d5be5eeb2e00}{%
+           family={Domiguez\bibnamedelima Vargas},
+           familyi={D\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={Michelle\bibnamedelima Carolina},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1f730fcfae440acf9c58d5be5eeb2e00}
+      \strng{fullhash}{1f730fcfae440acf9c58d5be5eeb2e00}
+      \strng{bibnamehash}{1f730fcfae440acf9c58d5be5eeb2e00}
+      \strng{authorbibnamehash}{1f730fcfae440acf9c58d5be5eeb2e00}
+      \strng{authornamehash}{1f730fcfae440acf9c58d5be5eeb2e00}
+      \strng{authorfullhash}{1f730fcfae440acf9c58d5be5eeb2e00}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Escuela Politécnica Nacional de Ecuador}
+      \field{title}{Diseño de un Sistema de Generación Fotovoltaico Residencial Autónomo para el Consumo Nivel 1}
+      \field{year}{2024}
+    \endentry
+    \entry{Guevara}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=426fbf6b93f9f71a9f7bf43347b66766}{%
+           family={Guevara\bibnamedelima Diaz},
+           familyi={G\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={Ruel},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{426fbf6b93f9f71a9f7bf43347b66766}
+      \strng{fullhash}{426fbf6b93f9f71a9f7bf43347b66766}
+      \strng{bibnamehash}{426fbf6b93f9f71a9f7bf43347b66766}
+      \strng{authorbibnamehash}{426fbf6b93f9f71a9f7bf43347b66766}
+      \strng{authornamehash}{426fbf6b93f9f71a9f7bf43347b66766}
+      \strng{authorfullhash}{426fbf6b93f9f71a9f7bf43347b66766}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas}
+      \field{title}{Análisis Costo Beneficio Del Sistema Fotovoltáico Monofásico Conectado a la Red}
+      \field{year}{2021}
+    \endentry
+    \entry{Laureano}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1ca81f9ca014af9f3b63544a3959900a}{%
+           family={Laureano\bibnamedelima Oré},
+           familyi={L\bibinitperiod\bibinitdelim O\bibinitperiod},
+           given={Carlos\bibnamedelima Brany},
+           giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1ca81f9ca014af9f3b63544a3959900a}
+      \strng{fullhash}{1ca81f9ca014af9f3b63544a3959900a}
+      \strng{bibnamehash}{1ca81f9ca014af9f3b63544a3959900a}
+      \strng{authorbibnamehash}{1ca81f9ca014af9f3b63544a3959900a}
+      \strng{authornamehash}{1ca81f9ca014af9f3b63544a3959900a}
+      \strng{authorfullhash}{1ca81f9ca014af9f3b63544a3959900a}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Universidad Tecnológica del Perú}
+      \field{title}{Análisis Comparativo de Rendimientos Entre un Sistema Fotovoltaico con Seguidor Solar de Doble Eje y un Distema Fotovoltaico de Montura Fija}
+      \field{year}{2023}
+    \endentry
+    \entry{Mestre}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b179fac6d12d0e589c034a6e65584567}{%
+           family={Mestre\bibnamedelima Maestre},
+           familyi={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Yeison\bibnamedelima Alfonso},
+           giveni={Y\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b179fac6d12d0e589c034a6e65584567}
+      \strng{fullhash}{b179fac6d12d0e589c034a6e65584567}
+      \strng{bibnamehash}{b179fac6d12d0e589c034a6e65584567}
+      \strng{authorbibnamehash}{b179fac6d12d0e589c034a6e65584567}
+      \strng{authornamehash}{b179fac6d12d0e589c034a6e65584567}
+      \strng{authorfullhash}{b179fac6d12d0e589c034a6e65584567}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Universidad Antonio Nariño}
+      \field{title}{Sistema Solar Fotovoltaico Aislado Para el Suministro de Energía Eléctrica a una vivienda Rural}
+      \field{year}{2020}
+    \endentry
+    \entry{Puco}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ded0d77d32cf69cebda93b0e5f9a7b6e}{%
+           family={Puco\bibnamedelima Buenaño},
+           familyi={P\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Marco\bibnamedelima Antonio},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ded0d77d32cf69cebda93b0e5f9a7b6e}
+      \strng{fullhash}{ded0d77d32cf69cebda93b0e5f9a7b6e}
+      \strng{bibnamehash}{ded0d77d32cf69cebda93b0e5f9a7b6e}
+      \strng{authorbibnamehash}{ded0d77d32cf69cebda93b0e5f9a7b6e}
+      \strng{authornamehash}{ded0d77d32cf69cebda93b0e5f9a7b6e}
+      \strng{authorfullhash}{ded0d77d32cf69cebda93b0e5f9a7b6e}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Universidad Católica de Santiago de Guayaquil}
+      \field{title}{Diseño de un sistema aislado para el uso en casas flotantes en la ciudad de Babahoyo}
+      \field{year}{2020}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{Correa}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3569697085e865707b062a82f11a5f95}{%
+           family={Correa\bibnamedelima Cervantes},
+           familyi={C\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={José\bibnamedelima Alfonso},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=219e395ad844b23b4e19d12cc454e3e6}{%
+           family={Siesquen\bibnamedelima Rivadeneira},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Jorim\bibnamedelima Ysrael},
+           giveni={J\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{25278c0dd6f2ac1c0fbb03e46d70cecd}
+      \strng{fullhash}{25278c0dd6f2ac1c0fbb03e46d70cecd}
+      \strng{bibnamehash}{25278c0dd6f2ac1c0fbb03e46d70cecd}
+      \strng{authorbibnamehash}{25278c0dd6f2ac1c0fbb03e46d70cecd}
+      \strng{authornamehash}{25278c0dd6f2ac1c0fbb03e46d70cecd}
+      \strng{authorfullhash}{25278c0dd6f2ac1c0fbb03e46d70cecd}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Universidad Cesar Vallejo}
+      \field{title}{Diseño de un Sistema Fotovoltaico con Seguidor Solar para Sistema de Telecomunicación de las Subestaciones Sector Norte}
+      \field{year}{2022}
+    \endentry
+    \entry{Dominguez}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1f730fcfae440acf9c58d5be5eeb2e00}{%
+           family={Domiguez\bibnamedelima Vargas},
+           familyi={D\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={Michelle\bibnamedelima Carolina},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1f730fcfae440acf9c58d5be5eeb2e00}
+      \strng{fullhash}{1f730fcfae440acf9c58d5be5eeb2e00}
+      \strng{bibnamehash}{1f730fcfae440acf9c58d5be5eeb2e00}
+      \strng{authorbibnamehash}{1f730fcfae440acf9c58d5be5eeb2e00}
+      \strng{authornamehash}{1f730fcfae440acf9c58d5be5eeb2e00}
+      \strng{authorfullhash}{1f730fcfae440acf9c58d5be5eeb2e00}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Escuela Politécnica Nacional de Ecuador}
+      \field{title}{Diseño de un Sistema de Generación Fotovoltaico Residencial Autónomo para el Consumo Nivel 1}
+      \field{year}{2024}
+    \endentry
+    \entry{Guevara}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=426fbf6b93f9f71a9f7bf43347b66766}{%
+           family={Guevara\bibnamedelima Diaz},
+           familyi={G\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={Ruel},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{426fbf6b93f9f71a9f7bf43347b66766}
+      \strng{fullhash}{426fbf6b93f9f71a9f7bf43347b66766}
+      \strng{bibnamehash}{426fbf6b93f9f71a9f7bf43347b66766}
+      \strng{authorbibnamehash}{426fbf6b93f9f71a9f7bf43347b66766}
+      \strng{authornamehash}{426fbf6b93f9f71a9f7bf43347b66766}
+      \strng{authorfullhash}{426fbf6b93f9f71a9f7bf43347b66766}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas}
+      \field{title}{Análisis Costo Beneficio Del Sistema Fotovoltáico Monofásico Conectado a la Red}
+      \field{year}{2021}
+    \endentry
+    \entry{Laureano}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1ca81f9ca014af9f3b63544a3959900a}{%
+           family={Laureano\bibnamedelima Oré},
+           familyi={L\bibinitperiod\bibinitdelim O\bibinitperiod},
+           given={Carlos\bibnamedelima Brany},
+           giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1ca81f9ca014af9f3b63544a3959900a}
+      \strng{fullhash}{1ca81f9ca014af9f3b63544a3959900a}
+      \strng{bibnamehash}{1ca81f9ca014af9f3b63544a3959900a}
+      \strng{authorbibnamehash}{1ca81f9ca014af9f3b63544a3959900a}
+      \strng{authornamehash}{1ca81f9ca014af9f3b63544a3959900a}
+      \strng{authorfullhash}{1ca81f9ca014af9f3b63544a3959900a}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Universidad Tecnológica del Perú}
+      \field{title}{Análisis Comparativo de Rendimientos Entre un Sistema Fotovoltaico con Seguidor Solar de Doble Eje y un Distema Fotovoltaico de Montura Fija}
+      \field{year}{2023}
+    \endentry
+    \entry{Mestre}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b179fac6d12d0e589c034a6e65584567}{%
+           family={Mestre\bibnamedelima Maestre},
+           familyi={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Yeison\bibnamedelima Alfonso},
+           giveni={Y\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b179fac6d12d0e589c034a6e65584567}
+      \strng{fullhash}{b179fac6d12d0e589c034a6e65584567}
+      \strng{bibnamehash}{b179fac6d12d0e589c034a6e65584567}
+      \strng{authorbibnamehash}{b179fac6d12d0e589c034a6e65584567}
+      \strng{authornamehash}{b179fac6d12d0e589c034a6e65584567}
+      \strng{authorfullhash}{b179fac6d12d0e589c034a6e65584567}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Universidad Antonio Nariño}
+      \field{title}{Sistema Solar Fotovoltaico Aislado Para el Suministro de Energía Eléctrica a una vivienda Rural}
+      \field{year}{2020}
+    \endentry
+    \entry{Puco}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ded0d77d32cf69cebda93b0e5f9a7b6e}{%
+           family={Puco\bibnamedelima Buenaño},
+           familyi={P\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Marco\bibnamedelima Antonio},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ded0d77d32cf69cebda93b0e5f9a7b6e}
+      \strng{fullhash}{ded0d77d32cf69cebda93b0e5f9a7b6e}
+      \strng{bibnamehash}{ded0d77d32cf69cebda93b0e5f9a7b6e}
+      \strng{authorbibnamehash}{ded0d77d32cf69cebda93b0e5f9a7b6e}
+      \strng{authornamehash}{ded0d77d32cf69cebda93b0e5f9a7b6e}
+      \strng{authorfullhash}{ded0d77d32cf69cebda93b0e5f9a7b6e}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Universidad Católica de Santiago de Guayaquil}
+      \field{title}{Diseño de un sistema aislado para el uso en casas flotantes en la ciudad de Babahoyo}
+      \field{year}{2020}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,1 +1,3 @@
-# perfil-tesis
+# tesis-titulacion
+
+![Cover](main.png)
